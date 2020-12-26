@@ -1,4 +1,4 @@
-# bitcoin_gift_guide
+# Bitcoin Gift Guide
 My guide to gifting bitcoin to noobs while also teaching them just enough about security
 
 
@@ -17,7 +17,8 @@ In order to receive your bitcoin gift, you will:
 * Receive your bitcoin!
 
 
-### Install a bitcoin wallet:
+## Set up a bitcoin wallet
+#### Install a wallet app:
 Go to the iOS or Google Play store and download “BlueWallet Bitcoin Wallet”:
 
 
@@ -25,7 +26,7 @@ Go to the iOS or Google Play store and download “BlueWallet Bitcoin Wallet”:
 BlueWallet is free and one of the nicer, easier to use bitcoin wallet options. It’s been pretty thoroughly vetted by the bitcoin community and is considered reasonably safe and trustworthy.
 
 
-### Generate a new wallet:
+#### Generate a new wallet:
 
 
 
@@ -35,7 +36,7 @@ Name your new wallet anything you like. You can always rename it later. Select �
 The wallet will now show you 12 “seed” words for the new wallet. This is THE MOST IMPORTANT STEP!
 
 
-### Crucial interlude about bitcoin wallets:
+#### Crucial interlude about bitcoin wallets:
 A bitcoin “wallet” is actually a terrible, misleading name.
 
 What it should really be called is something like a “secret store” (as in a place to store secrets) or, I suppose, a “password vault”.
@@ -57,7 +58,8 @@ There is nothing special about the wallet on your phone! It’s just one place w
 The seed is all that matters!
 
 
-### So: BACK UP YOUR SEED!!!!
+### Secure your backup
+#### BACK UP YOUR SEED!!!!
 Back to BlueWallet.
 
 It’s now showing you 12 words that represent your seed. This is the whole game right here (if you lost that screen, don’t worry. Click on the new wallet, click the three dot menu at the upper right, click on “Export / Backup”. It’ll display your 12 words at the bottom).
@@ -73,7 +75,7 @@ Note: more advanced seeds use 24 words.
 
 
 
-### Test your backup seed
+#### Test your backup seed
 Now that you’ve created your wallet, click into it and click “receive” at the bottom
 
 
@@ -101,7 +103,7 @@ Why’d we do that?
 To prove that there’s nothing special about the “wallet”. All that matters is the seed.
 
 
-### Restore your wallet
+#### Restore your wallet
 Click to add a wallet again. But this time we’re going to select “Import wallet”:
 
 
@@ -120,7 +122,7 @@ The wallet on your phone doesn’t matter.
 The seed is everything.
 
 
-### Safely store your seed backup words
+#### Safely store your seed backup words
 Take the piece of paper with your 12 backup words and store it somewhere safe. You are now the biggest security flaw. You’ll forget where you put the piece of paper. You’ll accidentally recycle it. You’ll spill a drink on it. Your dog will eat it.
 
 Many people have a fireproof box for certain precious documents. That’d be a good idea.
@@ -131,7 +133,7 @@ The good news is that this is just practice. We’re not talking about securing 
 
 
 
-### Receive your bitcoin gift!
+## Receive your bitcoin gift!
 Let me know when you’ve completed these steps. I’ll send you your bitcoin and answer any questions you have along the way.
 
 
@@ -148,9 +150,8 @@ If you do keep the wallet on your phone, be sure to click into the security sett
 
 
 
-## Bonus next steps
-
-### Can I import the bitcoin on “paper wallets” that you’ve given me in the past?
+### Bonus next steps
+#### Can I import the bitcoin on “paper wallets” that you’ve given me in the past?
 Yes! It’s a good idea to consolidate them into a wallet controlled by your new seed. Paper wallets are fun and convenient but too fragile for long-term storage.
 
 
@@ -166,7 +167,7 @@ It will have to deduct some transaction fees to do so. If you have the option, s
 Once you’ve confirmed the transfer, it’s safe to delete the imported paper wallet and toss the original printed paper.
 
 
-### How do I buy bitcoin myself?
+#### How do I buy bitcoin myself?
 The easiest way to start is via the Cash App.
 
 It’s simple to set up. Like any banking app you have to link a checking account and provide ID documentation. They do charge fees on bitcoin purchases but for now that’s fine. 
