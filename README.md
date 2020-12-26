@@ -76,16 +76,17 @@ Write them down--ON PAPER!!!--in order. The app will not let you take a screensh
 You should NEVER have a digital copy of your seed. You have to assume that anything digital, whether it be text files or photos or screencaps, will someday be hacked.
 
 <img src="https://github.com/kdmukai/bitcoin_gift_guide/blob/main/img/metal_seed.jpg?raw=true" width="250">
-_It’s so important that some people even etch them into metal so they’ll survive a fire!
-Um, just don’t take a picture of it!
-Note: more advanced seeds use 24 words._
+
+_It’s so important that some people even etch them into metal so they’ll survive a fire!_<br/>
+_Um, just don’t take a picture of it!_<br/>
+_Note: more advanced seeds use 24 words._
 
 
 
 #### Test your backup seed
 Now that you’ve created your wallet, click into it and click “receive” at the bottom
 
-<img src="https://github.com/kdmukai/bitcoin_gift_guide/blob/main/img/bw_receive.png?raw=true" width="250">
+<img src="https://github.com/kdmukai/bitcoin_gift_guide/blob/main/img/bw_receive.jpg?raw=true" width="250">
 
 You’ll see a blocky QR code. Below it you’ll see the first receive address generated for your seed. It will look something like:
 
@@ -158,8 +159,7 @@ If you do keep the wallet "hot" (on your phone), be sure to click into the secur
 
 
 
-### Bonus next steps
-#### Can I import the bitcoin on “paper wallets” that you’ve given me in the past?
+## Can I import the bitcoin on “paper wallets” that you’ve given me in the past?
 Yes! It’s a good idea to consolidate them into a wallet controlled by your new seed. Paper wallets are fun and convenient but too fragile for long-term storage.
 
 <img src="https://github.com/kdmukai/bitcoin_gift_guide/blob/main/img/paper_wallet.jpg?raw=true" width="250">
@@ -175,7 +175,8 @@ It will have to deduct some transaction fees to do so. If you have the option, s
 Once you’ve confirmed the transfer, it’s safe to delete the imported paper wallet and toss the original printed paper.
 
 
-#### How do I buy bitcoin myself?
+
+## How do I buy bitcoin myself?
 The easiest way to start is via the Cash App.
 
 <img src="https://github.com/kdmukai/bitcoin_gift_guide/blob/main/img/ca_buy_1.jpg?raw=true" width="250">
