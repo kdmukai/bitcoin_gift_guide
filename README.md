@@ -204,6 +204,6 @@ The more you invest, the more you have to step up your security game. Controllin
 
 The next step is a hardware wallet. It’s a secure storage device that contains your seed and replaces the wallet on your phone. Assume your phone can get hacked. The hardware wallets, thus far, have proven much, MUCH safer.
 
-As for bigger purchases, Cash App’s fees aren’t great if you’re going to keep buying in greater amounts. Exchanges like Coinbase Pro offer essentially free transaction fees (0.15%!) but are a lot less friendly to beginners.
+As for bigger purchases, Cash App’s fees aren’t great if you’re going to keep buying in greater amounts. Exchanges like Coinbase Pro offer super-low transaction fees (0.50%!) but are a lot less friendly to beginners.
 
-And if you get to holding serious net worth in bitcoin, then you step up your security even further to a “multisig” approach.
+And if you get to holding serious net worth in bitcoin, then you step up your security even further to a “multisig” approach where multiple keys control your bitcoin. This creates extra layers of redundancy and security (and complexity!). The keys can be spread out geographically, some entrusted to close friends or family, or even involve a third-party custodial service like Casa or Unchained Capital.
